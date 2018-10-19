@@ -9,6 +9,7 @@
             <Name>Pythagorion</Name>
             <Name>Kiran Müller</Name>
             <Name>Grundner</Name>
+            <Name>HannesRK</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -49,13 +50,13 @@
             <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_03_DESCRIPTION</LocID>       <Text>Landeszuschuss</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01</LocID>                    <Text>Leeres Feld</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_DESCRIPTION</LocID>        <Text>Baue ein neues Krankenhaus und stell dich allen Herausforderungen die das Betreiben eines Krankenhauses mit sich bringen! Verwalte dein Personal und kümmere dich um deine Patienten.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_DESCRIPTION</LocID>        <Text>Baue ein neues Krankenhaus und stell dich allen Herausforderungen, die das Betreiben eines Krankenhauses mit sich bringen! Verwalte dein Personal und kümmere dich um deine Patienten.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_BIG</LocID>                <Text>Leeres Feld (96 x 96 VERSION)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_BIG_DESCRIPTION</LocID>    <Text>Baue ein neues Krankenhaus und stell dich allen Herausforderungen die das Betreiben eines Krankenhauses mit sich bringen - nur diesmal mit mehr Land! Verwalte dein Personal und kümmere dich um deine Patienten.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_01_BIG_DESCRIPTION</LocID>    <Text>Baue ein neues Krankenhaus und stell dich allen Herausforderungen, die das Betreiben eines Krankenhauses mit sich bringen - nur diesmal mit mehr Land! Verwalte dein Personal und kümmere dich um deine Patienten.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_02</LocID>                    <Text>Einfache Klinik</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_02_DESCRIPTION</LocID>        <Text>Starte mit einer kleinen laufenden Notfallklinik. Mache sie profitabel und erweitere es zu einem kompletten modernen Krankenhaus, gefüllt mit professionellem Personal und glücklichen Patienten.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_02_DESCRIPTION</LocID>        <Text>Starte mit einer kleinen laufenden Notfallklinik. Mache sie profitabel und erweitere sie zu einem kompletten modernen Krankenhaus, gefüllt mit professionellem Personal und glücklichen Patienten.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_03</LocID>                    <Text>Kleines Krankenhaus</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LEVEL_SANDBOX_03_DESCRIPTION</LocID>        <Text>Überspringe das Bauen und springe direkt in den Dienst eines Arztes. Konzentriere dich auf den medizinischen Teil des Spiels oder erschaffe ein größeres und effizenteres Krankenhaus!</Text>  </GameDBLocalizedString>
